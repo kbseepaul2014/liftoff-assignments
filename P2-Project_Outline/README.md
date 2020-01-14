@@ -21,7 +21,8 @@ For this assignment, you will submit a high-level outline of your project. This 
   ~ Dashboard - This is where the Users will be able to see all of their todos neatly organised.
   
   ~ Edit ToDos - This is where the Users will be able to edit their todo list items 
-
+  
+  ~Confirmation - This is where the Users will have to confirm if they want to edit or delete their ToDos/Reminders. 
 
 ### Technologies:
 
