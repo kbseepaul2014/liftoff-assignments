@@ -26,7 +26,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Technologies:
 
-Include Technologies here
+  ~ HTML5, CSS3, Javascript (jQuery Library) 
+  ~ (more will be added)
 
 ### What I'll Have to Learn:
 
